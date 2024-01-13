@@ -28,4 +28,4 @@ int check_cycle(listint_t *list)
 		fast = fast->next->next;
 	}
 	return (0);
-}`
+}
